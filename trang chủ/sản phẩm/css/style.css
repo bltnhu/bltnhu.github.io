@@ -20,11 +20,12 @@ body{
 	background-position: center;
 	background-size: cover;
 }
-.header{
+#header{
 	width:1920px;
 	height:60px;
 	margin:0 auto;
-	padding-top:30px;
+	padding-top:10px;
+	background:black;
 }
 .header-main{
 	width:1860px;
